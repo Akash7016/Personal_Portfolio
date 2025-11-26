@@ -2,7 +2,7 @@
 
 A modern, premium portfolio website showcasing my skills as a **Full Stack Developer & ML/AI Engineer**. Built with cutting-edge technologies and featuring stunning animations, glass morphism design, and a fully functional contact system.
 
-![Portfolio Preview](https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/)
+[Portfolio Preview](https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/)
 
 ## 🎯 **Purpose**
 
@@ -162,7 +162,7 @@ docs/
 
 ## 🌐 **Live Demo**
 
-**🔗 Deployed Website:** [https://person-portfolio.com/](https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/)
+**🔗 Deployed Website:** [https://personal-portfolio.com/](https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/)
 
 _Note: Replace with your actual deployment URL once hosted_
 
