@@ -162,7 +162,7 @@ docs/
 
 ## 🌐 **Live Demo**
 
-**🔗 Deployed Website:** [https://akash-portfolio.netlify.app](https://akash-portfolio.netlify.app)
+**🔗 Deployed Website:** [https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/]
 
 _Note: Replace with your actual deployment URL once hosted_
 
