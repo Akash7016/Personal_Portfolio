@@ -162,7 +162,7 @@ docs/
 
 ## 🌐 **Live Demo**
 
-**🔗 Deployed Website:** [https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/]
+**🔗 Deployed Website:** [https://personal-portfolio-k3vmggtht-akash-yadavs-projects-ee4a1767.vercel.app/](https://akash-portfolio.com)
 
 _Note: Replace with your actual deployment URL once hosted_
 
